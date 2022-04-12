@@ -6,12 +6,6 @@
 
 #bibliotecas utilizadas
 library(raster)
-library(rgeos)
-library(maptools)
-library(raster)
-library(rgdal)
-library(ncdf4)
-library(dplyr)
 library(sp)
 
 #abrir o raster da cobertura vegetal para a zte 125
