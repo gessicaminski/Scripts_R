@@ -1,1 +1,0 @@
-####   ÍNDICE DE HETEROGEINIDADE ######
