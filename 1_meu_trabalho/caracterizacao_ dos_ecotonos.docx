@@ -1,0 +1,50 @@
+
+Tema da Dissertação/Tese submetida ao Programa de Pós-graduação em Ecologia da Universidade Federal de Santa Catarina para a obtenção do título de Mestre em Ecologia.
+Orientador: Prof. Marina Hirota Dr.
+
+Título: Caracterização dos Ecótonos entre os biomas brasileiros Amazônia e Cerrado.
+
+A pesquisa toda começou a partir da vegetação que esta locaizada na transição dos biomas Amazônia com o Cerrado.Sabe-se que ambos os biomas possuem caracteristicas próprias bem definidas tanto pra flora quanto para o clima. Assim pensando neste local o que vem a sua mente? Que simplesmente um bioma acaba abruptamente e começa outro? Ou que há tipo de gradiente? Ou que tem misturas dos organismos e fatores abióticos ou são diferentes, que só existem naquele local? 
+
+Segundo o IBGE, os biomas tropicais brasileiros são determinados por fronteiras adjacentes abruptas, sem nenhuma região de transição entre eles. Também sugerem que existem Zonas de Tensão Ecológica (ZTE) localizadas entre biomas (escala continental) e dentro de um mesmo bioma (escala da paisagem). Essas zonas de tensão podem conter dois tipos de transição: abrupta que são chamadas de encraves e mistura que são os ecótonos. Porém eles não identificam quais são encraves e quais são ecótonos e acabam todas classificadas apenas como ZTE. Embora de extrema importância no contexto de mudanças na configuração da distribuição da cobertura vegetal na forma como tais ZTEs são apresentadas atualmente, não há uma boa definição de suas estruturas, composição e funcionalidade.
+
+Agora você deve estar se perguntando, mas por que diferenciar encrave de ecótno é importante?
+
+Quando é uma transição abrupta, ocorre um contato brusco e repentino, sem interpenetração dos organismos na zona de delimitação (IBGE, 2012). Neste caso, as espécies de cada uma dessas comunidades atingem seus limites de distribuição na região de transição, pois geralmente não são adaptadas para sobreviver no ecossistema que se segue (e.g. espécies mais especializadas). 
+
+Quando é de forma gradual, ocorre a mistura dos organismos há interpenetração e uma transformação progressiva de um limite a outro. No segundo caso, ocorre uma distribuição de espécies que possuem maior tolerância ambiental e que se adaptam mais facilmente, podendo se estender através da região de transição e ainda incluir o ecossistema vizinho (e.g. espécies menos especializadas) (MARACAHIPES et al., 2018; AMETSITSI et al., 2020). Como consequência dessa convivência mútua dos organismos, ocorrerá uma modificação estrutural e funcional (e.g. competição direta, com diferentes taxas de reprodução e crescimento, tolerância e taxa de recuperação aos distúrbios) que intervém para configurar a preponderância de um ou outro ecossistema (NEIFF, 2003). 
+
+
+Neste local além do contato dos organismos também a o encontro climático:
+Que pode ser mais conflitante ainda.
+Estes locais não possuem o nome de zona de tensão a toa. 
+Pois a tensão é uma situação conflitante que está constantemente ameaçada de romper-se diante das forças que agem sobre um objeto/organismo, sendo capaz de o comprimir (INFOPEDIA, 2003). 
+Neste contexto, podemos citar como exemplo de condição conflitante é o encontro de diferentes domínios morfoclimáticos em transições de diferentes biomas (TORELLO-RAVENTOS et al., 2013). Em que locais de transição estão embebidas em intenso gradiente de condições que produz uma condição de conflito, ou seja, a tensão. 
+Sabe-se também da relação da fitofisionomia da flora em relação ao clima. Assim é interessante investigar a relação do clima com a vegetação nessas zonas de tensões.
+
+Pesquisas no mundo todo indicam correlações na distribuição de espécies nos mais variados ecótonos a partir de alterações de regimes de precipitação e temperatura no passado (DZUREC et al., 1985, SCHWARTZ et al., 1986, PITELKA et al., 1997; HEWITT, 1999), e mais recentemente (BARROS et al., 2018; IRL et al., 2016; FISICHELLI et al., 2013; MALHI et al., 2008; PARMESAN et al., 2005).
+
+Em particular, na América do sul tropical, a dinâmica espacial do ecótono formado entre Amazônia e o Cerrado, em grande escala, foi intensa nos últimos milhares de anos, com momentos de expansão e retração em diferentes regiões (FREITAS et al., 2001, PESSENDA et al., 1998, GOUVEIA et al., 1997, DESJARDINS et al., 1996; VIDOTTO et al., 2007). Mais recentemente, desde a década de 50, um dos primeiros a relatar os meandros e a complexidade florística do ecótono Amazônia-Cerrado foi Soares (1953), afirmando que seu limite é bastante irregular e impreciso. E, em sua expedição, Xavantina-Cachimbo, Ratter et al. (1973) relatam a presença de diferentes tipos de vegetação que se interpenetram, como se se mantivessem em um estágio sucessional constante de acordo com as condições ambientais circundates. Marimon et al. (2014, 2006) verificaram em campo, a partir de estudos botânicos e relatos fitofisionômicos, a expansão da floresta sobre a savana em apenas 35 anos. Ab’Saber (2002) também sugere que há uma dinâmica de expansão e retração das florestas e das savanas ao longo do tempo. No entanto, há evidências da possibilidade de que as mudanças no clima no século XXI possam causar um “recuo” da floresta (e.g., OLIVERAS; MALHI, 2016; ANDERSON et al., 2018), uma região que provavelmente seria substituída por uma vegetação de menor porte e dossel mais aberto, devido aos impactos no ciclo hidrológico (e.g., STAAL et al., 2018; NOBRE et al., 1991; GLOOR et al., 2013; MARENGO et al., 2013). O processo de retração das bordas da floresta pode ser intensificado pela pressão associada às atividades humanas ao longo do arco do desmatamento (e.g. ALENCAR et al., 2015, SILVERIO et al., 2013), que coincide com as áreas de ecótonos, especialmente em anos de seca extrema (ARAGÃO et al., 2007). 
+
+Objetivos
+ Neste contexto, este trabalho tem como objetivos principais: 
+ 1) verificar se as ZTEs sugeridas pelo IBGE representam áreas de ecótonos quantificando suas características estruturais básicas; 2) relacionar o tamanho e a heterogeneidade dos ecótonos com o regime de chuva predominante em cada um deles. 
+ 
+ Metodologia
+ Para responder a primeira pergunta utilizei o tipo de cobertura e porcentagem de cobertura árborea (%CA) fornecidos pelo MapBiomas e o teste flexmix para testar bimodalidade a partir da CA fornecidos pelo Hansen. 
+
+ Para a segunda pergunta extraí a média de precipitação anual, sazonalidade e variabilidade interanual da chuva para cada ZTE e a partir da regressão linear e polinomial analisei sua relação com a porcentagem do uso do solo e a variabilidade de dispersão de dados(SD/IQR) da cobertura arbórea.  
+ 
+ Selecionei 46 ZTEs  que estão classificadas em 3 tipos: savana/floresta estacional (S-Fe); savana/floresta ombrófila (S-Fo) e floresta estacional/floresta ombrófila (Fe-Fo), a partir da distância da fronteira geográfica entre os biomas Cerrado e Amazônia, segundo o IBGE.
+ 
+
+ Para quem tiver curiosidade um pouco dos meus resultados
+
+ Resultados
+  Os resultados mostram que 83% das ZTEs apresentam características de ecótonos do ponto de vista da estrutura do dossel. Ou seja, possuem mais de um tipo de vegetação, o que pode representar o complexo mosaico de fitofisionomias savânicas e florestais descrito na literatura. Com relação ao segundo objetivo, tal heterogeneidade aparentemente não pode ser explicada pela sazonalidade, mas sim pelos MAP e CV com os quais teve uma maior correlação e consistência entre os índices utilizados. Isso pode ser observado através do aumento da heterogeneidade no intervalo de MAP entre 1.500 e 1.800 mm/ano o  que sugere uma transição mais gradual entre os biomas. E a variação interanual em teoria prediz que a heterogeneidade pode fazer parte do mecanismo compensador de resiliência, assim esses organismos, que suportam funções essenciais ao conectar áreas entre si podem contribuir para a resiliência do ecossistema.
+
+
+Referências
+
+
+
