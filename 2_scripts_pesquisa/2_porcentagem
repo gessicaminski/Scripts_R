@@ -39,3 +39,10 @@ dim(mtxn)[1]/dim(mtx)[1]
 
 #Com esse dados, além de filtrar os locais em que apenas cobertura natural ocorre, as %F e %S foram utilizadas para avaliar caracterizar os ecótonos, e utilizados para investigar a proposta de um índice de heterogeneidade. Além disso, computou-se a proporção de pixels que correspondem a outras classes de cobertura não naturais (%A) em relação ao total de pixels, a fim de ilustrar as correntes mudanças de uso do solo nas ZTEs.
 
+### saber o tipo de transição-tem que fazer isso para cada um
+#ex zte 125
+aten@data$TIPO[125]
+
+##area 
+aten@data$SHAPE_LENG[125] 
+aten@data$SHAPE_AREA[125]
