@@ -38,7 +38,10 @@ ate <- which(veg@data$TIPO2 == "Área de Tensão Ecológica", arr.ind = T)
 aten <-veg[ate,] # mostrou todas as ZTEs para o Brasil
 #plot(aten, add=T)
 
-#como as ZTEs eram para o Brasil todo eu não sabia qual era qual eu plotei uma por uma e vi sua localização. Anotei o número(nome/id da area) das que estavam na área de estudo. Selecionei 46 áreas.
+#como as ZTEs eram para o Brasil todo eu não sabia qual era qual eu plotei uma por uma e vi sua localização. Anotei o número(nome/id da area) das que estavam na área de estudo. Selecionei 46 áreas que continham transição floresta e savana. Que verifiquei com esse código cada zte na area de estudo
+#verificar o tipo de vegetação que compõe a zte
+aten@data$TIPO[125]
+
 #plotei o shapefile dos estados também para saber a qual estado pertencia cada um,para já deixar anotado. 
 #exemplo
 plot(aten[125, ])
